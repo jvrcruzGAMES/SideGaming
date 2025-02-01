@@ -10,6 +10,7 @@
             "type": "github",
             "repo": "OatmealDome/dolphin-ios",
             "tag": "latest",
+            "assetRegex": "[A-Za-z0-9]+\\.ipa",
             "appMetadata": {
                 "name": "Dolphin Emulator",
                 "bundleIdentifier": "me.oatmealdome.DolphiniOS",
@@ -24,6 +25,7 @@
             "type": "github",
             "repo": "Pomelo-Emu/pomelo-emu.github.io",
             "tag": "latest",
+            "assetRegex": "[A-Za-z0-9]+\\.ipa",
             "appMetadata": {
                 "name": "Pomelo Emulator",
                 "bundleIdentifier": "com.stossy11.Pomelo",
@@ -39,6 +41,7 @@
             "repo": "rileytestut/Delta",
             "tag": "latest",
             "allowPrereleases": false,
+            "assetRegex": "[A-Za-z0-9]+\\.ipa",
             "appMetadata": {
                 "name": "Delta Emulator",
                 "bundleIdentifier": "com.rileytestut.Delta",
