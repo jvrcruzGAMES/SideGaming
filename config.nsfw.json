@@ -16,7 +16,7 @@
                 "developerName": "OatmealDome",
                 "tintColor": "#297eff",
                 "iconURL": "https://github.com/OatmealDome/dolphin-ios/blob/master/Source/iOS/App/DolphiniOS/Assets.xcassets/AppIcon.appiconset/diosblue.png?raw=true",
-                "localizedDescription": "Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, and even more! \n \n Developed by OatmealDome. \n Fetched from source, requires JIT.",
+                "localizedDescription": "Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, and even more! \n \n Developed by OatmealDome. \n Fetched from source, requires JIT."
             },
             "allowPrereleases": true
         },
@@ -30,7 +30,7 @@
                 "iconURL": "https://gitlab.com/pomelo-emu/Pomelo/-/raw/main/Pomelo/Assets.xcassets/AppIcon.appiconset/AppIcon1024x1024.png?ref_type=heads",
                 "developerName": "Stossy11",
                 "tintColor": "#297eff",
-                "localizedDescription": "Pomelo is an emulator for the Nintendo Switch. It allows PC gamers to enjoy games for the Nintendo Switch in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, and even more! \n \n Developed by Stossy11. \n Fetched from source, requires JIT.",
+                "localizedDescription": "Pomelo is an emulator for the Nintendo Switch. It allows PC gamers to enjoy games for the Nintendo Switch in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, and even more! \n \n Developed by Stossy11. \n Fetched from source, requires JIT."
             },
             "allowPrereleases": false
         },
@@ -45,7 +45,7 @@
                 "developerName": "Riley Testut",
                 "tintColor": "#297eff",
                 "iconURL": "https://github.com/rileytestut/Delta/blob/main/Resources/Icons.xcassets/AppIcon.appiconset/Icon1024.png?raw=true",
-                "localizedDescription": "Delta is an emulator for the Nintendo DS and Nintendo 64. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more! \n \n Developed by Riley Testut. \n Fetched from source.",
+                "localizedDescription": "Delta is an emulator for the Nintendo DS and Nintendo 64. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more! \n \n Developed by Riley Testut. \n Fetched from source."
             }
         },
         {
@@ -55,6 +55,25 @@
             "appBundleIds": [
                 "org.provenance-emu.provenance"
             ]
+        },
+        {
+            "type": "raw",
+            "app": {
+                "name": "Summertime Saga (18+)",
+                "bundleIdentifier": "",
+                "developerName": "Kompas Productions",
+                "tintColor": "#297eff",
+                "iconURL": "",
+                "localizedDescription": "Adult visual novel game developed by Kompas Productions.",
+                "versions": [
+                    {
+                        "version": "21.0.0-wip.5252",
+                        "date": "2025-02-01",
+                        "downloadURL": "https://dl.dropboxusercontent.com/scl/fi/0wdo3sreslzn87w3g52l0/SummertimeSaga_21.0.0-wip.5252.ipa?rlkey=ow45mde76zj6qnuaue0uh82gk&e=1&st=mdi5aakj&dl=0",
+                        "size": 700000000
+                    }
+                ]
+            }
         }
     ],
     "news": []
