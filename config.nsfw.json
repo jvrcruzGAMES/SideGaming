@@ -43,25 +43,6 @@
             "appBundleIds": [
                 "org.provenance-emu.provenance"
             ]
-        },
-        {
-            "type": "raw",
-            "app": {
-                "name": "Summertime Saga (18+)",
-                "bundleIdentifier": "",
-                "developerName": "Kompas Productions",
-                "tintColor": "#297eff",
-                "iconURL": "",
-                "localizedDescription": "Adult visual novel game developed by Kompas Productions.",
-                "versions": [
-                    {
-                        "version": "21.0.0-wip.5252",
-                        "date": "2025-02-01",
-                        "downloadURL": "https://dl.dropboxusercontent.com/scl/fi/0wdo3sreslzn87w3g52l0/SummertimeSaga_21.0.0-wip.5252.ipa?rlkey=ow45mde76zj6qnuaue0uh82gk&e=1&st=mdi5aakj&dl=0",
-                        "size": 700000000
-                    }
-                ]
-            }
         }
     ],
     "news": []
