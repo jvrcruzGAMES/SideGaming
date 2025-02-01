@@ -1,0 +1,100 @@
+{
+    "name": "SideGaming NSFW",
+    "identifier": "games.jvrcruz.SideGaming-NSFW",
+    "apps": [
+        {
+            "name": "Pomelo Emulator",
+            "bundleIdentifier": "com.stossy11.Pomelo",
+            "iconURL": "https://gitlab.com/pomelo-emu/Pomelo/-/raw/main/Pomelo/Assets.xcassets/AppIcon.appiconset/AppIcon1024x1024.png?ref_type=heads",
+            "developerName": "Stossy11",
+            "tintColor": "#297eff",
+            "localizedDescription": "Pomelo is an emulator for the Nintendo Switch. It allows PC gamers to enjoy games for the Nintendo Switch in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, and even more! \n \n Developed by Stossy11. \n Fetched from source, requires JIT.",
+            "versions": [
+                {
+                    "version": "2.7.1",
+                    "date": "2024-12-04",
+                    "localizedDescription": "# Changelog\r\n\r\nFix iOS 16 and 15(wip)",
+                    "downloadURL": "https://github.com/Pomelo-Emu/pomelo-emu.github.io/releases/download/2.7.1/Pomelo.ipa",
+                    "size": 28938200
+                }
+            ],
+            "version": "2.7.1",
+            "versionDate": "2024-12-04",
+            "versionDescription": "# Changelog\r\n\r\nFix iOS 16 and 15(wip)",
+            "downloadURL": "https://github.com/Pomelo-Emu/pomelo-emu.github.io/releases/download/2.7.1/Pomelo.ipa",
+            "size": 28938200
+        },
+        {
+            "name": "Delta Emulator",
+            "bundleIdentifier": "com.rileytestut.Delta",
+            "developerName": "Riley Testut",
+            "tintColor": "#297eff",
+            "iconURL": "https://github.com/rileytestut/Delta/blob/main/Resources/Icons.xcassets/AppIcon.appiconset/Icon1024.png?raw=true",
+            "localizedDescription": "Delta is an emulator for the Nintendo DS and Nintendo 64. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more! \n \n Developed by Riley Testut. \n Fetched from source.",
+            "versions": [
+                {
+                    "version": "v1.6",
+                    "date": "2024-07-11",
+                    "localizedDescription": "## New\r\n\r\nApp Icon\r\n* Brand new legally-compliant app icon (thanks Caroline Moore!)\r\n* Includes alternative app icons designed by community members:\r\n* \"Halogenide\" by Sebastiaan de With\r\n* \"Ketchup\" by Ben McCarthy\r\n* \"Microchip\" by Sean Fletcher\r\n\r\niPad Support\r\n* Play games full screen on iPad's beautiful display\r\n* Brand new controller skins designed specifically for iPad (thanks Caroline Moore!)\r\n* Supports multiple windows in Stage Manager and Split View\r\n* Automatically pauses games when switching windows (optional)\r\n\r\nHandoff\r\n* Seamlessly switch between iPhone and iPad\r\n* Continues playing exactly where you left off\r\n* Also supports Delta on Apple Silicon Macs via Mac App Store\r\n\r\nmelonDS 0.9.5\r\n* Improves DS game compatibility & performance\r\n* BIOS files are now optional!\r\n* Supports \"inserting\" GBA games into DS dual-slot\r\n* Increased Fast Forward speed to 3x (A15 processor or later)\r\n\r\nMenu Button Gestures\r\n* Use gestures while holding menu button to perform quick actions\r\n* Menu + Horizontal Swipe: Fast Forward\r\n* Menu + Any Button: Hold Button\r\n* Menu + Double-Tap: Quick Save\r\n* Menu + Long-Press: Quick Load\r\n\r\nExperimental Features\r\n* New section in Settings for features by third-party contributors\r\n* Features are WIP and should be used at user’s discretion\r\n* Available for Patrons on \"Beta Access\" tier or higher\r\n\r\nSave States\r\n* Sort save states by name\r\n* View all incompatible screenshots on a separate screen\r\n* Export save states to import into other emulators\r\n\r\n“Display Full Screen” AirPlay Setting\r\n* Control whether Delta shows games full screen on external displays\r\n* Disable to use multiple windows on external display with Stage Manager\r\n\r\nMisc.\r\n* Supports Game Mode on iOS 18+\r\n* Increased DS screen size for default edge-to-edge iPhone landscape skin\r\n\r\n## Fixed\r\n\r\n* Fixed exporting save file without file extension\r\n* Fixed interface rotating when playing WarioWare: Twisted!\r\n* Fixed Pokemon Black & White (2) freezing with C-Gear enabled",
+                    "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
+                    "size": 87734964
+                }
+            ],
+            "version": "v1.6",
+            "versionDate": "2024-07-11",
+            "versionDescription": "## New\r\n\r\nApp Icon\r\n* Brand new legally-compliant app icon (thanks Caroline Moore!)\r\n* Includes alternative app icons designed by community members:\r\n* \"Halogenide\" by Sebastiaan de With\r\n* \"Ketchup\" by Ben McCarthy\r\n* \"Microchip\" by Sean Fletcher\r\n\r\niPad Support\r\n* Play games full screen on iPad's beautiful display\r\n* Brand new controller skins designed specifically for iPad (thanks Caroline Moore!)\r\n* Supports multiple windows in Stage Manager and Split View\r\n* Automatically pauses games when switching windows (optional)\r\n\r\nHandoff\r\n* Seamlessly switch between iPhone and iPad\r\n* Continues playing exactly where you left off\r\n* Also supports Delta on Apple Silicon Macs via Mac App Store\r\n\r\nmelonDS 0.9.5\r\n* Improves DS game compatibility & performance\r\n* BIOS files are now optional!\r\n* Supports \"inserting\" GBA games into DS dual-slot\r\n* Increased Fast Forward speed to 3x (A15 processor or later)\r\n\r\nMenu Button Gestures\r\n* Use gestures while holding menu button to perform quick actions\r\n* Menu + Horizontal Swipe: Fast Forward\r\n* Menu + Any Button: Hold Button\r\n* Menu + Double-Tap: Quick Save\r\n* Menu + Long-Press: Quick Load\r\n\r\nExperimental Features\r\n* New section in Settings for features by third-party contributors\r\n* Features are WIP and should be used at user’s discretion\r\n* Available for Patrons on \"Beta Access\" tier or higher\r\n\r\nSave States\r\n* Sort save states by name\r\n* View all incompatible screenshots on a separate screen\r\n* Export save states to import into other emulators\r\n\r\n“Display Full Screen” AirPlay Setting\r\n* Control whether Delta shows games full screen on external displays\r\n* Disable to use multiple windows on external display with Stage Manager\r\n\r\nMisc.\r\n* Supports Game Mode on iOS 18+\r\n* Increased DS screen size for default edge-to-edge iPhone landscape skin\r\n\r\n## Fixed\r\n\r\n* Fixed exporting save file without file extension\r\n* Fixed interface rotating when playing WarioWare: Twisted!\r\n* Fixed Pokemon Black & White (2) freezing with C-Gear enabled",
+            "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
+            "size": 87734964
+        },
+        {
+            "name": "Provenance EMU",
+            "bundleIdentifier": "org.provenance-emu.provenance",
+            "developerName": "Joe Mattiello",
+            "subtitle": "Multi-emulator frontend for iOS & tvOS",
+            "version": "2.2.1",
+            "versionDate": "2022-12-30T00:01:00-05:00",
+            "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
+            "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
+            "localizedDescription": "Multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.",
+            "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
+            "tintColor": "#162434",
+            "size": 77010038,
+            "permissions": [
+                {
+                    "type": "photos",
+                    "usageDescription": "Allows Provenance to use images from your Photo Library as game artwork."
+                }
+            ],
+            "screenshotURLs": [
+                "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2306.jpg",
+                "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2307.jpg",
+                "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2308.jpg",
+                "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2309.jpg",
+                "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2310.jpg",
+                "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2311.jpg",
+                "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
+            ]
+        },
+        {
+            "name": "Summertime Saga (18+)",
+            "bundleIdentifier": "",
+            "developerName": "Kompas Productions",
+            "tintColor": "#297eff",
+            "iconURL": "",
+            "localizedDescription": "Adult visual novel game developed by Kompas Productions.",
+            "versions": [
+                {
+                    "version": "21.0.0-wip.5252",
+                    "date": "2025-02-01",
+                    "downloadURL": "https://dl.dropboxusercontent.com/scl/fi/0wdo3sreslzn87w3g52l0/SummertimeSaga_21.0.0-wip.5252.ipa?rlkey=ow45mde76zj6qnuaue0uh82gk&e=1&st=mdi5aakj&dl=0",
+                    "size": 700000000
+                }
+            ],
+            "version": "21.0.0-wip.5252",
+            "versionDate": "2025-02-01",
+            "downloadURL": "https://dl.dropboxusercontent.com/scl/fi/0wdo3sreslzn87w3g52l0/SummertimeSaga_21.0.0-wip.5252.ipa?rlkey=ow45mde76zj6qnuaue0uh82gk&e=1&st=mdi5aakj&dl=0",
+            "size": 700000000
+        }
+    ],
+    "news": []
+}
