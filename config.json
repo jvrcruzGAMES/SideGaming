@@ -16,7 +16,7 @@
                 "iconURL": "https://gitlab.com/pomelo-emu/Pomelo/-/raw/main/Pomelo/Assets.xcassets/AppIcon.appiconset/AppIcon1024x1024.png?ref_type=heads",
                 "developerName": "Stossy11",
                 "tintColor": "#297eff",
-                "localizedDescription": "Pomelo is an emulator for the Nintendo Switch. It allows PC gamers to enjoy games for the Nintendo Switch in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, and even more! \n \n Developed by Stossy11. \n Fetched from source, requires JIT.",
+                "localizedDescription": "Pomelo is an emulator for the Nintendo Switch. It allows PC gamers to enjoy games for the Nintendo Switch in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, and even more! \n \n Developed by Stossy11. \n Fetched from source, requires JIT."
             },
             "allowPrereleases": false
         },
@@ -31,7 +31,7 @@
                 "developerName": "Riley Testut",
                 "tintColor": "#297eff",
                 "iconURL": "https://github.com/rileytestut/Delta/blob/main/Resources/Icons.xcassets/AppIcon.appiconset/Icon1024.png?raw=true",
-                "localizedDescription": "Delta is an emulator for the Nintendo DS and Nintendo 64. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more! \n \n Developed by Riley Testut. \n Fetched from source.",
+                "localizedDescription": "Delta is an emulator for the Nintendo DS and Nintendo 64. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more! \n \n Developed by Riley Testut. \n Fetched from source."
             }
         },
         {

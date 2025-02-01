@@ -1,6 +1,10 @@
 {
-    "name": "SideGaming NSFW",
-    "identifier": "games.jvrcruz.SideGaming-NSFW",
+    "name": "SideGaming",
+    "subtitle": "A source for iOS games and emulators.",
+    "description": "Welcome to my source! A source for iOS games and emulators. This source is managed by jvrcruz.",
+    "iconURL": "",
+    "headerURL": "",
+    "tintColor": "#82f59f",
     "apps": [
         {
             "name": "Pomelo Emulator",
@@ -97,4 +101,4 @@
         }
     ],
     "news": []
-}
+  }
